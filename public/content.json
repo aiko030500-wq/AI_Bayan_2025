@@ -1,0 +1,1388 @@
+{
+  "modules": [
+    {
+      "id": "M1",
+      "title": "Module 1",
+      "lessons": [
+        {
+          "id": "M1L1",
+          "title": "Lesson 1 — Back to School / Best Friends",
+          "grammarTopic": "",
+          "sections": {
+            "grammar": [
+              {
+                "type": "mcq",
+                "prompt": "Choose the correct option",
+                "options": [
+                  "I can swim",
+                  "I cans swim",
+                  "I can to swim",
+                  "I am can swim"
+                ],
+                "answer": 0
+              }
+            ],
+            "vocabulary": [
+              {
+                "type": "match",
+                "prompt": "Match the word to meaning",
+                "pairs": [
+                  [
+                    "friend",
+                    "a person you like"
+                  ],
+                  [
+                    "school",
+                    "a place to learn"
+                  ]
+                ]
+              }
+            ],
+            "listening": [
+              {
+                "type": "read",
+                "prompt": "Listening transcript (UK voice)",
+                "content": "(Original script here)"
+              }
+            ],
+            "reading": [
+              {
+                "type": "read",
+                "prompt": "Reading text",
+                "content": "(Original reading text here)"
+              }
+            ],
+            "phonics": [
+              {
+                "type": "text",
+                "prompt": "Phonics practice",
+                "content": "(sounds / examples)"
+              }
+            ],
+            "cross": [
+              {
+                "type": "project",
+                "prompt": "Cross-curricular task",
+                "content": "(task)"
+              }
+            ],
+            "dictation": [
+              {
+                "type": "text",
+                "prompt": "Dictation words/sentences",
+                "content": "(new words)"
+              }
+            ],
+            "writing": [
+              {
+                "type": "train-writing",
+                "prompt": "Write 5–6 sentences on the topic.",
+                "content": ""
+              }
+            ],
+            "speaking": [
+              {
+                "type": "train-speaking",
+                "prompt": "Say 3–4 sentences on the topic.",
+                "content": ""
+              }
+            ]
+          }
+        },
+        {
+          "id": "M1L2",
+          "title": "Lesson 2 — My Daily Routine",
+          "grammarTopic": "",
+          "sections": {
+            "grammar": [
+              {
+                "type": "mcq",
+                "prompt": "Choose the correct option",
+                "options": [
+                  "I can swim",
+                  "I cans swim",
+                  "I can to swim",
+                  "I am can swim"
+                ],
+                "answer": 0
+              }
+            ],
+            "vocabulary": [
+              {
+                "type": "match",
+                "prompt": "Match the word to meaning",
+                "pairs": [
+                  [
+                    "friend",
+                    "a person you like"
+                  ],
+                  [
+                    "school",
+                    "a place to learn"
+                  ]
+                ]
+              }
+            ],
+            "listening": [
+              {
+                "type": "read",
+                "prompt": "Listening transcript (UK voice)",
+                "content": "(Original script here)"
+              }
+            ],
+            "reading": [
+              {
+                "type": "read",
+                "prompt": "Reading text",
+                "content": "(Original reading text here)"
+              }
+            ],
+            "phonics": [
+              {
+                "type": "text",
+                "prompt": "Phonics practice",
+                "content": "(sounds / examples)"
+              }
+            ],
+            "cross": [
+              {
+                "type": "project",
+                "prompt": "Cross-curricular task",
+                "content": "(task)"
+              }
+            ],
+            "dictation": [
+              {
+                "type": "text",
+                "prompt": "Dictation words/sentences",
+                "content": "(new words)"
+              }
+            ],
+            "writing": [
+              {
+                "type": "train-writing",
+                "prompt": "Write 5–6 sentences on the topic.",
+                "content": ""
+              }
+            ],
+            "speaking": [
+              {
+                "type": "train-speaking",
+                "prompt": "Say 3–4 sentences on the topic.",
+                "content": ""
+              }
+            ]
+          }
+        },
+        {
+          "id": "M1L3",
+          "title": "Lesson 3 — Our World: My Daily Routine",
+          "grammarTopic": "",
+          "sections": {
+            "grammar": [
+              {
+                "type": "mcq",
+                "prompt": "Choose the correct option",
+                "options": [
+                  "I can swim",
+                  "I cans swim",
+                  "I can to swim",
+                  "I am can swim"
+                ],
+                "answer": 0
+              }
+            ],
+            "vocabulary": [
+              {
+                "type": "match",
+                "prompt": "Match the word to meaning",
+                "pairs": [
+                  [
+                    "friend",
+                    "a person you like"
+                  ],
+                  [
+                    "school",
+                    "a place to learn"
+                  ]
+                ]
+              }
+            ],
+            "listening": [
+              {
+                "type": "read",
+                "prompt": "Listening transcript (UK voice)",
+                "content": "(Original script here)"
+              }
+            ],
+            "reading": [
+              {
+                "type": "read",
+                "prompt": "Reading text",
+                "content": "(Original reading text here)"
+              }
+            ],
+            "phonics": [
+              {
+                "type": "text",
+                "prompt": "Phonics practice",
+                "content": "(sounds / examples)"
+              }
+            ],
+            "cross": [
+              {
+                "type": "project",
+                "prompt": "Cross-curricular task",
+                "content": "(task)"
+              }
+            ],
+            "dictation": [
+              {
+                "type": "text",
+                "prompt": "Dictation words/sentences",
+                "content": "(new words)"
+              }
+            ],
+            "writing": [
+              {
+                "type": "train-writing",
+                "prompt": "Write 5–6 sentences on the topic.",
+                "content": ""
+              }
+            ],
+            "speaking": [
+              {
+                "type": "train-speaking",
+                "prompt": "Say 3–4 sentences on the topic.",
+                "content": ""
+              }
+            ]
+          }
+        },
+        {
+          "id": "M1L4",
+          "title": "Lesson 4 — Play and Write",
+          "grammarTopic": "",
+          "sections": {
+            "grammar": [
+              {
+                "type": "mcq",
+                "prompt": "Choose the correct option",
+                "options": [
+                  "I can swim",
+                  "I cans swim",
+                  "I can to swim",
+                  "I am can swim"
+                ],
+                "answer": 0
+              }
+            ],
+            "vocabulary": [
+              {
+                "type": "match",
+                "prompt": "Match the word to meaning",
+                "pairs": [
+                  [
+                    "friend",
+                    "a person you like"
+                  ],
+                  [
+                    "school",
+                    "a place to learn"
+                  ]
+                ]
+              }
+            ],
+            "listening": [
+              {
+                "type": "read",
+                "prompt": "Listening transcript (UK voice)",
+                "content": "(Original script here)"
+              }
+            ],
+            "reading": [
+              {
+                "type": "read",
+                "prompt": "Reading text",
+                "content": "(Original reading text here)"
+              }
+            ],
+            "phonics": [
+              {
+                "type": "text",
+                "prompt": "Phonics practice",
+                "content": "(sounds / examples)"
+              }
+            ],
+            "cross": [
+              {
+                "type": "project",
+                "prompt": "Cross-curricular task",
+                "content": "(task)"
+              }
+            ],
+            "dictation": [
+              {
+                "type": "text",
+                "prompt": "Dictation words/sentences",
+                "content": "(new words)"
+              }
+            ],
+            "writing": [
+              {
+                "type": "train-writing",
+                "prompt": "Write 5–6 sentences on the topic.",
+                "content": ""
+              }
+            ],
+            "speaking": [
+              {
+                "type": "train-speaking",
+                "prompt": "Say 3–4 sentences on the topic.",
+                "content": ""
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "M2",
+      "title": "Module 2",
+      "lessons": [
+        {
+          "id": "M2L1",
+          "title": "Lesson 5 — My Family and Friends",
+          "grammarTopic": "",
+          "sections": {
+            "grammar": [
+              {
+                "type": "mcq",
+                "prompt": "Choose the correct option",
+                "options": [
+                  "I can swim",
+                  "I cans swim",
+                  "I can to swim",
+                  "I am can swim"
+                ],
+                "answer": 0
+              }
+            ],
+            "vocabulary": [
+              {
+                "type": "match",
+                "prompt": "Match the word to meaning",
+                "pairs": [
+                  [
+                    "friend",
+                    "a person you like"
+                  ],
+                  [
+                    "school",
+                    "a place to learn"
+                  ]
+                ]
+              }
+            ],
+            "listening": [
+              {
+                "type": "read",
+                "prompt": "Listening transcript (UK voice)",
+                "content": "(Original script here)"
+              }
+            ],
+            "reading": [
+              {
+                "type": "read",
+                "prompt": "Reading text",
+                "content": "(Original reading text here)"
+              }
+            ],
+            "phonics": [
+              {
+                "type": "text",
+                "prompt": "Phonics practice",
+                "content": "(sounds / examples)"
+              }
+            ],
+            "cross": [
+              {
+                "type": "project",
+                "prompt": "Cross-curricular task",
+                "content": "(task)"
+              }
+            ],
+            "dictation": [
+              {
+                "type": "text",
+                "prompt": "Dictation words/sentences",
+                "content": "(new words)"
+              }
+            ],
+            "writing": [
+              {
+                "type": "train-writing",
+                "prompt": "Write 5–6 sentences on the topic.",
+                "content": ""
+              }
+            ],
+            "speaking": [
+              {
+                "type": "train-speaking",
+                "prompt": "Say 3–4 sentences on the topic.",
+                "content": ""
+              }
+            ]
+          }
+        },
+        {
+          "id": "M2L2",
+          "title": "Lesson 6 — Good and Bad Manners",
+          "grammarTopic": "",
+          "sections": {
+            "grammar": [
+              {
+                "type": "mcq",
+                "prompt": "Choose the correct option",
+                "options": [
+                  "I can swim",
+                  "I cans swim",
+                  "I can to swim",
+                  "I am can swim"
+                ],
+                "answer": 0
+              }
+            ],
+            "vocabulary": [
+              {
+                "type": "match",
+                "prompt": "Match the word to meaning",
+                "pairs": [
+                  [
+                    "friend",
+                    "a person you like"
+                  ],
+                  [
+                    "school",
+                    "a place to learn"
+                  ]
+                ]
+              }
+            ],
+            "listening": [
+              {
+                "type": "read",
+                "prompt": "Listening transcript (UK voice)",
+                "content": "(Original script here)"
+              }
+            ],
+            "reading": [
+              {
+                "type": "read",
+                "prompt": "Reading text",
+                "content": "(Original reading text here)"
+              }
+            ],
+            "phonics": [
+              {
+                "type": "text",
+                "prompt": "Phonics practice",
+                "content": "(sounds / examples)"
+              }
+            ],
+            "cross": [
+              {
+                "type": "project",
+                "prompt": "Cross-curricular task",
+                "content": "(task)"
+              }
+            ],
+            "dictation": [
+              {
+                "type": "text",
+                "prompt": "Dictation words/sentences",
+                "content": "(new words)"
+              }
+            ],
+            "writing": [
+              {
+                "type": "train-writing",
+                "prompt": "Write 5–6 sentences on the topic.",
+                "content": ""
+              }
+            ],
+            "speaking": [
+              {
+                "type": "train-speaking",
+                "prompt": "Say 3–4 sentences on the topic.",
+                "content": ""
+              }
+            ]
+          }
+        },
+        {
+          "id": "M2L3",
+          "title": "Lesson 7 — Play and Write",
+          "grammarTopic": "",
+          "sections": {
+            "grammar": [
+              {
+                "type": "mcq",
+                "prompt": "Choose the correct option",
+                "options": [
+                  "I can swim",
+                  "I cans swim",
+                  "I can to swim",
+                  "I am can swim"
+                ],
+                "answer": 0
+              }
+            ],
+            "vocabulary": [
+              {
+                "type": "match",
+                "prompt": "Match the word to meaning",
+                "pairs": [
+                  [
+                    "friend",
+                    "a person you like"
+                  ],
+                  [
+                    "school",
+                    "a place to learn"
+                  ]
+                ]
+              }
+            ],
+            "listening": [
+              {
+                "type": "read",
+                "prompt": "Listening transcript (UK voice)",
+                "content": "(Original script here)"
+              }
+            ],
+            "reading": [
+              {
+                "type": "read",
+                "prompt": "Reading text",
+                "content": "(Original reading text here)"
+              }
+            ],
+            "phonics": [
+              {
+                "type": "text",
+                "prompt": "Phonics practice",
+                "content": "(sounds / examples)"
+              }
+            ],
+            "cross": [
+              {
+                "type": "project",
+                "prompt": "Cross-curricular task",
+                "content": "(task)"
+              }
+            ],
+            "dictation": [
+              {
+                "type": "text",
+                "prompt": "Dictation words/sentences",
+                "content": "(new words)"
+              }
+            ],
+            "writing": [
+              {
+                "type": "train-writing",
+                "prompt": "Write 5–6 sentences on the topic.",
+                "content": ""
+              }
+            ],
+            "speaking": [
+              {
+                "type": "train-speaking",
+                "prompt": "Say 3–4 sentences on the topic.",
+                "content": ""
+              }
+            ]
+          }
+        },
+        {
+          "id": "M2L4",
+          "title": "Lesson 8 — Culture Page",
+          "grammarTopic": "",
+          "sections": {
+            "grammar": [
+              {
+                "type": "mcq",
+                "prompt": "Choose the correct option",
+                "options": [
+                  "I can swim",
+                  "I cans swim",
+                  "I can to swim",
+                  "I am can swim"
+                ],
+                "answer": 0
+              }
+            ],
+            "vocabulary": [
+              {
+                "type": "match",
+                "prompt": "Match the word to meaning",
+                "pairs": [
+                  [
+                    "friend",
+                    "a person you like"
+                  ],
+                  [
+                    "school",
+                    "a place to learn"
+                  ]
+                ]
+              }
+            ],
+            "listening": [
+              {
+                "type": "read",
+                "prompt": "Listening transcript (UK voice)",
+                "content": "(Original script here)"
+              }
+            ],
+            "reading": [
+              {
+                "type": "read",
+                "prompt": "Reading text",
+                "content": "(Original reading text here)"
+              }
+            ],
+            "phonics": [
+              {
+                "type": "text",
+                "prompt": "Phonics practice",
+                "content": "(sounds / examples)"
+              }
+            ],
+            "cross": [
+              {
+                "type": "project",
+                "prompt": "Cross-curricular task",
+                "content": "(task)"
+              }
+            ],
+            "dictation": [
+              {
+                "type": "text",
+                "prompt": "Dictation words/sentences",
+                "content": "(new words)"
+              }
+            ],
+            "writing": [
+              {
+                "type": "train-writing",
+                "prompt": "Write 5–6 sentences on the topic.",
+                "content": ""
+              }
+            ],
+            "speaking": [
+              {
+                "type": "train-speaking",
+                "prompt": "Say 3–4 sentences on the topic.",
+                "content": ""
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "M3",
+      "title": "Module 3",
+      "lessons": [
+        {
+          "id": "M3L1",
+          "title": "Lesson 9 — What’s Your Hobby?",
+          "grammarTopic": "",
+          "sections": {
+            "grammar": [
+              {
+                "type": "mcq",
+                "prompt": "Choose the correct option",
+                "options": [
+                  "I can swim",
+                  "I cans swim",
+                  "I can to swim",
+                  "I am can swim"
+                ],
+                "answer": 0
+              }
+            ],
+            "vocabulary": [
+              {
+                "type": "match",
+                "prompt": "Match the word to meaning",
+                "pairs": [
+                  [
+                    "friend",
+                    "a person you like"
+                  ],
+                  [
+                    "school",
+                    "a place to learn"
+                  ]
+                ]
+              }
+            ],
+            "listening": [
+              {
+                "type": "read",
+                "prompt": "Listening transcript (UK voice)",
+                "content": "(Original script here)"
+              }
+            ],
+            "reading": [
+              {
+                "type": "read",
+                "prompt": "Reading text",
+                "content": "(Original reading text here)"
+              }
+            ],
+            "phonics": [
+              {
+                "type": "text",
+                "prompt": "Phonics practice",
+                "content": "(sounds / examples)"
+              }
+            ],
+            "cross": [
+              {
+                "type": "project",
+                "prompt": "Cross-curricular task",
+                "content": "(task)"
+              }
+            ],
+            "dictation": [
+              {
+                "type": "text",
+                "prompt": "Dictation words/sentences",
+                "content": "(new words)"
+              }
+            ],
+            "writing": [
+              {
+                "type": "train-writing",
+                "prompt": "Write 5–6 sentences on the topic.",
+                "content": ""
+              }
+            ],
+            "speaking": [
+              {
+                "type": "train-speaking",
+                "prompt": "Say 3–4 sentences on the topic.",
+                "content": ""
+              }
+            ]
+          }
+        },
+        {
+          "id": "M3L2",
+          "title": "Lesson 10 — Fun Free Time",
+          "grammarTopic": "",
+          "sections": {
+            "grammar": [
+              {
+                "type": "mcq",
+                "prompt": "Choose the correct option",
+                "options": [
+                  "I can swim",
+                  "I cans swim",
+                  "I can to swim",
+                  "I am can swim"
+                ],
+                "answer": 0
+              }
+            ],
+            "vocabulary": [
+              {
+                "type": "match",
+                "prompt": "Match the word to meaning",
+                "pairs": [
+                  [
+                    "friend",
+                    "a person you like"
+                  ],
+                  [
+                    "school",
+                    "a place to learn"
+                  ]
+                ]
+              }
+            ],
+            "listening": [
+              {
+                "type": "read",
+                "prompt": "Listening transcript (UK voice)",
+                "content": "(Original script here)"
+              }
+            ],
+            "reading": [
+              {
+                "type": "read",
+                "prompt": "Reading text",
+                "content": "(Original reading text here)"
+              }
+            ],
+            "phonics": [
+              {
+                "type": "text",
+                "prompt": "Phonics practice",
+                "content": "(sounds / examples)"
+              }
+            ],
+            "cross": [
+              {
+                "type": "project",
+                "prompt": "Cross-curricular task",
+                "content": "(task)"
+              }
+            ],
+            "dictation": [
+              {
+                "type": "text",
+                "prompt": "Dictation words/sentences",
+                "content": "(new words)"
+              }
+            ],
+            "writing": [
+              {
+                "type": "train-writing",
+                "prompt": "Write 5–6 sentences on the topic.",
+                "content": ""
+              }
+            ],
+            "speaking": [
+              {
+                "type": "train-speaking",
+                "prompt": "Say 3–4 sentences on the topic.",
+                "content": ""
+              }
+            ]
+          }
+        },
+        {
+          "id": "M3L3",
+          "title": "Lesson 11 — Play and Write — Our Hobbies",
+          "grammarTopic": "",
+          "sections": {
+            "grammar": [
+              {
+                "type": "mcq",
+                "prompt": "Choose the correct option",
+                "options": [
+                  "I can swim",
+                  "I cans swim",
+                  "I can to swim",
+                  "I am can swim"
+                ],
+                "answer": 0
+              }
+            ],
+            "vocabulary": [
+              {
+                "type": "match",
+                "prompt": "Match the word to meaning",
+                "pairs": [
+                  [
+                    "friend",
+                    "a person you like"
+                  ],
+                  [
+                    "school",
+                    "a place to learn"
+                  ]
+                ]
+              }
+            ],
+            "listening": [
+              {
+                "type": "read",
+                "prompt": "Listening transcript (UK voice)",
+                "content": "(Original script here)"
+              }
+            ],
+            "reading": [
+              {
+                "type": "read",
+                "prompt": "Reading text",
+                "content": "(Original reading text here)"
+              }
+            ],
+            "phonics": [
+              {
+                "type": "text",
+                "prompt": "Phonics practice",
+                "content": "(sounds / examples)"
+              }
+            ],
+            "cross": [
+              {
+                "type": "project",
+                "prompt": "Cross-curricular task",
+                "content": "(task)"
+              }
+            ],
+            "dictation": [
+              {
+                "type": "text",
+                "prompt": "Dictation words/sentences",
+                "content": "(new words)"
+              }
+            ],
+            "writing": [
+              {
+                "type": "train-writing",
+                "prompt": "Write 5–6 sentences on the topic.",
+                "content": ""
+              }
+            ],
+            "speaking": [
+              {
+                "type": "train-speaking",
+                "prompt": "Say 3–4 sentences on the topic.",
+                "content": ""
+              }
+            ]
+          }
+        },
+        {
+          "id": "M3L4",
+          "title": "Lesson 12 — Culture Page — Hobbies Around the World",
+          "grammarTopic": "",
+          "sections": {
+            "grammar": [
+              {
+                "type": "mcq",
+                "prompt": "Choose the correct option",
+                "options": [
+                  "I can swim",
+                  "I cans swim",
+                  "I can to swim",
+                  "I am can swim"
+                ],
+                "answer": 0
+              }
+            ],
+            "vocabulary": [
+              {
+                "type": "match",
+                "prompt": "Match the word to meaning",
+                "pairs": [
+                  [
+                    "friend",
+                    "a person you like"
+                  ],
+                  [
+                    "school",
+                    "a place to learn"
+                  ]
+                ]
+              }
+            ],
+            "listening": [
+              {
+                "type": "read",
+                "prompt": "Listening transcript (UK voice)",
+                "content": "(Original script here)"
+              }
+            ],
+            "reading": [
+              {
+                "type": "read",
+                "prompt": "Reading text",
+                "content": "(Original reading text here)"
+              }
+            ],
+            "phonics": [
+              {
+                "type": "text",
+                "prompt": "Phonics practice",
+                "content": "(sounds / examples)"
+              }
+            ],
+            "cross": [
+              {
+                "type": "project",
+                "prompt": "Cross-curricular task",
+                "content": "(task)"
+              }
+            ],
+            "dictation": [
+              {
+                "type": "text",
+                "prompt": "Dictation words/sentences",
+                "content": "(new words)"
+              }
+            ],
+            "writing": [
+              {
+                "type": "train-writing",
+                "prompt": "Write 5–6 sentences on the topic.",
+                "content": ""
+              }
+            ],
+            "speaking": [
+              {
+                "type": "train-speaking",
+                "prompt": "Say 3–4 sentences on the topic.",
+                "content": ""
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "M4",
+      "title": "Module 4",
+      "lessons": [
+        {
+          "id": "M4L1",
+          "title": "Lesson 13 — The World Around Us",
+          "grammarTopic": "",
+          "sections": {
+            "grammar": [
+              {
+                "type": "mcq",
+                "prompt": "Choose the correct option",
+                "options": [
+                  "I can swim",
+                  "I cans swim",
+                  "I can to swim",
+                  "I am can swim"
+                ],
+                "answer": 0
+              }
+            ],
+            "vocabulary": [
+              {
+                "type": "match",
+                "prompt": "Match the word to meaning",
+                "pairs": [
+                  [
+                    "friend",
+                    "a person you like"
+                  ],
+                  [
+                    "school",
+                    "a place to learn"
+                  ]
+                ]
+              }
+            ],
+            "listening": [
+              {
+                "type": "read",
+                "prompt": "Listening transcript (UK voice)",
+                "content": "(Original script here)"
+              }
+            ],
+            "reading": [
+              {
+                "type": "read",
+                "prompt": "Reading text",
+                "content": "(Original reading text here)"
+              }
+            ],
+            "phonics": [
+              {
+                "type": "text",
+                "prompt": "Phonics practice",
+                "content": "(sounds / examples)"
+              }
+            ],
+            "cross": [
+              {
+                "type": "project",
+                "prompt": "Cross-curricular task",
+                "content": "(task)"
+              }
+            ],
+            "dictation": [
+              {
+                "type": "text",
+                "prompt": "Dictation words/sentences",
+                "content": "(new words)"
+              }
+            ],
+            "writing": [
+              {
+                "type": "train-writing",
+                "prompt": "Write 5–6 sentences on the topic.",
+                "content": ""
+              }
+            ],
+            "speaking": [
+              {
+                "type": "train-speaking",
+                "prompt": "Say 3–4 sentences on the topic.",
+                "content": ""
+              }
+            ]
+          }
+        },
+        {
+          "id": "M4L2",
+          "title": "Lesson 14 — Animals and Nature",
+          "grammarTopic": "",
+          "sections": {
+            "grammar": [
+              {
+                "type": "mcq",
+                "prompt": "Choose the correct option",
+                "options": [
+                  "I can swim",
+                  "I cans swim",
+                  "I can to swim",
+                  "I am can swim"
+                ],
+                "answer": 0
+              }
+            ],
+            "vocabulary": [
+              {
+                "type": "match",
+                "prompt": "Match the word to meaning",
+                "pairs": [
+                  [
+                    "friend",
+                    "a person you like"
+                  ],
+                  [
+                    "school",
+                    "a place to learn"
+                  ]
+                ]
+              }
+            ],
+            "listening": [
+              {
+                "type": "read",
+                "prompt": "Listening transcript (UK voice)",
+                "content": "(Original script here)"
+              }
+            ],
+            "reading": [
+              {
+                "type": "read",
+                "prompt": "Reading text",
+                "content": "(Original reading text here)"
+              }
+            ],
+            "phonics": [
+              {
+                "type": "text",
+                "prompt": "Phonics practice",
+                "content": "(sounds / examples)"
+              }
+            ],
+            "cross": [
+              {
+                "type": "project",
+                "prompt": "Cross-curricular task",
+                "content": "(task)"
+              }
+            ],
+            "dictation": [
+              {
+                "type": "text",
+                "prompt": "Dictation words/sentences",
+                "content": "(new words)"
+              }
+            ],
+            "writing": [
+              {
+                "type": "train-writing",
+                "prompt": "Write 5–6 sentences on the topic.",
+                "content": ""
+              }
+            ],
+            "speaking": [
+              {
+                "type": "train-speaking",
+                "prompt": "Say 3–4 sentences on the topic.",
+                "content": ""
+              }
+            ]
+          }
+        },
+        {
+          "id": "M4L3",
+          "title": "Lesson 15 — Play and Write — Amazing Nature",
+          "grammarTopic": "",
+          "sections": {
+            "grammar": [
+              {
+                "type": "mcq",
+                "prompt": "Choose the correct option",
+                "options": [
+                  "I can swim",
+                  "I cans swim",
+                  "I can to swim",
+                  "I am can swim"
+                ],
+                "answer": 0
+              }
+            ],
+            "vocabulary": [
+              {
+                "type": "match",
+                "prompt": "Match the word to meaning",
+                "pairs": [
+                  [
+                    "friend",
+                    "a person you like"
+                  ],
+                  [
+                    "school",
+                    "a place to learn"
+                  ]
+                ]
+              }
+            ],
+            "listening": [
+              {
+                "type": "read",
+                "prompt": "Listening transcript (UK voice)",
+                "content": "(Original script here)"
+              }
+            ],
+            "reading": [
+              {
+                "type": "read",
+                "prompt": "Reading text",
+                "content": "(Original reading text here)"
+              }
+            ],
+            "phonics": [
+              {
+                "type": "text",
+                "prompt": "Phonics practice",
+                "content": "(sounds / examples)"
+              }
+            ],
+            "cross": [
+              {
+                "type": "project",
+                "prompt": "Cross-curricular task",
+                "content": "(task)"
+              }
+            ],
+            "dictation": [
+              {
+                "type": "text",
+                "prompt": "Dictation words/sentences",
+                "content": "(new words)"
+              }
+            ],
+            "writing": [
+              {
+                "type": "train-writing",
+                "prompt": "Write 5–6 sentences on the topic.",
+                "content": ""
+              }
+            ],
+            "speaking": [
+              {
+                "type": "train-speaking",
+                "prompt": "Say 3–4 sentences on the topic.",
+                "content": ""
+              }
+            ]
+          }
+        },
+        {
+          "id": "M4L4",
+          "title": "Lesson 16 — Culture Page — Our Beautiful Planet",
+          "grammarTopic": "",
+          "sections": {
+            "grammar": [
+              {
+                "type": "mcq",
+                "prompt": "Choose the correct option",
+                "options": [
+                  "I can swim",
+                  "I cans swim",
+                  "I can to swim",
+                  "I am can swim"
+                ],
+                "answer": 0
+              }
+            ],
+            "vocabulary": [
+              {
+                "type": "match",
+                "prompt": "Match the word to meaning",
+                "pairs": [
+                  [
+                    "friend",
+                    "a person you like"
+                  ],
+                  [
+                    "school",
+                    "a place to learn"
+                  ]
+                ]
+              }
+            ],
+            "listening": [
+              {
+                "type": "read",
+                "prompt": "Listening transcript (UK voice)",
+                "content": "(Original script here)"
+              }
+            ],
+            "reading": [
+              {
+                "type": "read",
+                "prompt": "Reading text",
+                "content": "(Original reading text here)"
+              }
+            ],
+            "phonics": [
+              {
+                "type": "text",
+                "prompt": "Phonics practice",
+                "content": "(sounds / examples)"
+              }
+            ],
+            "cross": [
+              {
+                "type": "project",
+                "prompt": "Cross-curricular task",
+                "content": "(task)"
+              }
+            ],
+            "dictation": [
+              {
+                "type": "text",
+                "prompt": "Dictation words/sentences",
+                "content": "(new words)"
+              }
+            ],
+            "writing": [
+              {
+                "type": "train-writing",
+                "prompt": "Write 5–6 sentences on the topic.",
+                "content": ""
+              }
+            ],
+            "speaking": [
+              {
+                "type": "train-speaking",
+                "prompt": "Say 3–4 sentences on the topic.",
+                "content": ""
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
