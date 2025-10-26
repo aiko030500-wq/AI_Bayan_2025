@@ -1,11 +1,8 @@
-# 🌟 AI Bayan 2025 — English Learning App
+# 🌟 AI Bayan 2025
 
-Welcome to **AI Bayan 2025**, an interactive English-learning web application created for primary school students in Kazakhstan 🇰🇿.  
-It helps children learn grammar, vocabulary, phonics, and more — with the help of their friendly AI teacher, **Bayan** 👧💬.
+An English-learning app for students with a friendly chatbot and lesson modules.
 
----
-
-## ✨ Features
-
-- 👧 **AI Bayan Chat** — ask questions and get smart explanations  
-- 🎙
+### To run locally:
+```bash
+npm install
+npm run dev
